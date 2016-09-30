@@ -14,7 +14,6 @@ public class BeerSong {
     public static void Main(){
         Ninety_Nine_Bottles_of_Beer();
     }
-
     public static void main(String[] args) {
         Main();
     }
